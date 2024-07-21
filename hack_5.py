@@ -7,6 +7,6 @@ def fn_hack_5():
     result  = result.replace('o','0')
     result  = result.replace('i','1')
     result  = result.replace('a','@')
-    return result  
+    return  result  
 
 print(fn_hack_5())
